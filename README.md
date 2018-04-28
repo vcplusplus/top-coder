@@ -12,3 +12,10 @@ See HackerRank Contest: https://www.hackerrank.com/vassars-next-top-coder-l2
 
 ### Advanced
 See HackerRank Contest: https://www.hackerrank.com/vassars-next-top-coder-l3
+
+## Rules
+  1. _No cheating_! We'll ask you to explain your code.
+  2. Pass all test cases, fastest to finish wins!
+  3. 1st place: $30 Amazon Gift Card. 2nd place: $15 Amaazon Gift Card.
+  4. Raise your have if you have any questions!
+  5. As always *HAVE FUN!*
