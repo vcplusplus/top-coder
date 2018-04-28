@@ -8,7 +8,7 @@ Welcome to Vassar's Next Top Coder! Check out this repository for all the files 
 This repository has all the files you need to work on the Beginner Level. Each code file has the problem description. Let us know if you have any questions.
 
 ### Intermediate
-(https://www.hackerrank.com/vassars-next-top-coder-l2)[https://www.hackerrank.com/vassars-next-top-coder-l2]
+See HackerRank Contest: https://www.hackerrank.com/vassars-next-top-coder-l2
 
 ### Advanced
-(https://www.hackerrank.com/vassars-next-top-coder-l2)[https://www.hackerrank.com/vassars-next-top-coder-l2]
+See HackerRank Contest: https://www.hackerrank.com/vassars-next-top-coder-l3
